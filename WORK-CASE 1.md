@@ -36,7 +36,7 @@
      ```
    - Add all changes:
      ```bash
-     git add .
+     git add 
      ```
 
 ### 4. **Commit Changes**
