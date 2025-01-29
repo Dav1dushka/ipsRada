@@ -1,5 +1,5 @@
 #### **СРС_WORK-CASE**
-- [x] [СРС_WORK-CASE 1]()
+- [ ] [СРС_WORK-CASE 1]()
 - [ ] [СРС_WORK-CASE 2]()
 - [ ] [СРС_WORK-CASE 3]()
 - [ ] [СРС_WORK-CASE 4]()
