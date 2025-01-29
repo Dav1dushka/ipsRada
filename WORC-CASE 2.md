@@ -39,3 +39,4 @@
 - If the flash drive is not detected:
     `"On Linux, you may need to add a user to the vboxusers group"`
     `"On Windows, you may need to install the VirtualBox Extension Pack drivers"`
+---
