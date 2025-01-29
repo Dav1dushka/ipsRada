@@ -27,8 +27,8 @@
     Internal network (communication only between virtual machines)
     Host-only adapter (communication between the VM and the host system without access to the Internet)
  - For Wi-Fi:
-    If you are using a Bridge Adapter, select the host machine's Wi-Fi adapter
-    If you need to connect to Wi-Fi through a USB adapter, you can transfer it to the VM via USB devices
+    `"If you are using a Bridge Adapter, select the host machine's Wi-Fi adapter"`
+    `"If you need to connect to Wi-Fi through a USB adapter, you can transfer it to the VM via USB devices"`
 ---
 ### Ability to work with external media (flash drives)
 - Insert the flash drive into the host computer
@@ -37,5 +37,5 @@
 - Click Add New USB Filter and select the flash drive from the list
 - Start the VM, the flash drive will appear in the list of devices
 - If the flash drive is not detected:
-    On Linux, you may need to add a user to the vboxusers group.
-    On Windows, you may need to install the VirtualBox Extension Pack drivers
+    `"On Linux, you may need to add a user to the vboxusers group"`
+    `"On Windows, you may need to install the VirtualBox Extension Pack drivers"`
