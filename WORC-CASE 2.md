@@ -3,13 +3,13 @@
 > this part made by Davidokt
 ---
 ### Creating a new virtual machine
-  **Open VirtualBox**
-  **Click Create**
-  **Specify the name of the VM and select the type of OS (Windows, Linux, macOS, etc.)**
-  **Select the amount of RAM (it is recommended not to exceed 50% of the available memory)**
-  **Select “Create a new virtual hard disk” or use an existing one**
-  **Select the disk format (VDI, VMDK, VHD) and the storage mode (dynamic or fixed size)**
-  **Click Create**
+  Open VirtualBox
+  Click Create
+  Specify the name of the VM and select the type of OS (Windows, Linux, macOS, etc.)
+  Select the amount of RAM (it is recommended not to exceed 50% of the available memory)
+  Select “Create a new virtual hard disk” or use an existing one
+  Select the disk format (VDI, VMDK, VHD) and the storage mode (dynamic or fixed size)
+  Click Create**
 ---
 ### Selecting/adding hardware available for a VM
 **Select a VM and click Settings**
