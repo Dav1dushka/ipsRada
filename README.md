@@ -1,12 +1,12 @@
 #### **СРС_WORK-CASE**
-- [ ] [СРС_WORK-CASE 1](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%201.md)
-- [ ] [СРС_WORK-CASE 2]()
-- [ ] [СРС_WORK-CASE 3]()
-- [ ] [СРС_WORK-CASE 4]()
-- [ ] [СРС_WORK-CASE 5]()
-- [ ] [СРС_WORK-CASE 6]()
-- [ ] [СРС_WORK-CASE 7]()
-- [ ] [СРС_WORK-CASE 8]()
+- [ ] [WORK-CASE 1](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%201.md)
+- [ ] [WORK-CASE 2]()
+- [ ] [WORK-CASE 3]()
+- [ ] [WORK-CASE 4]()
+- [ ] [WORK-CASE 5]()
+- [ ] [WORK-CASE 6]()
+- [ ] [WORK-CASE 7]()
+- [ ] [WORK-CASE 8]()
 
 #### **Лабораторні роботи**
 - [ ] [Лабораторна робота 1]()
