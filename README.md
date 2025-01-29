@@ -1,6 +1,6 @@
 #### **СРС_WORK-CASE**
 - [ ] [WORK-CASE 1](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%201.md)
-- [ ] [WORK-CASE 2]()
+- [ ] [WORK-CASE 2](https://github.com/Dav1dushka/ipsRada/blob/main/WORC-CASE%202.md)
 - [ ] [WORK-CASE 3]()
 - [ ] [WORK-CASE 4]()
 - [ ] [WORK-CASE 5]()
