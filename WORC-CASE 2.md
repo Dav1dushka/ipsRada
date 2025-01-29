@@ -1,5 +1,8 @@
+# Git: **Describe a set of basic actions in the hypervisor you have installed:**
+>[!IMPORTANT]
+> this part made by Davidokt
 ---
-## Creating a new virtual machine
+### Creating a new virtual machine
   **Open VirtualBox**
   **Click Create**
   **Specify the name of the VM and select the type of OS (Windows, Linux, macOS, etc.)**
@@ -8,7 +11,7 @@
   **Select the disk format (VDI, VMDK, VHD) and the storage mode (dynamic or fixed size)**
   **Click Create**
 ---
-## Selecting/adding hardware available for a VM
+### Selecting/adding hardware available for a VM
 **Select a VM and click Settings**
 **System → Specify the number of processor cores, RAM, and boot order**
 **Display → Set the amount of video memory, enable 3D or 2D acceleration**
@@ -16,7 +19,7 @@
 **Audio → Enable/disable the audio adapter**
 **USB → Select the USB mode (2.0 or 3.0) and add USB devices**
 ---
-## Set up a network and connect to Wi-Fi
+### Set up a network and connect to Wi-Fi
 **Settings → Network**
 **Select the adapter's operating mode:
 NAT (access to the Internet, but the VM is isolated)**
@@ -27,7 +30,7 @@ NAT (access to the Internet, but the VM is isolated)**
 -If you are using a Bridge Adapter, select the host machine's Wi-Fi adapter
 -If you need to connect to Wi-Fi through a USB adapter, you can transfer it to the VM via USB devices**
 ---
-## Ability to work with external media (flash drives)
+### Ability to work with external media (flash drives)
 **Insert the flash drive into the host computer**
 **In VirtualBox, select the VM and go to Settings → USB**
 **Turn on the USB controller (2.0 or 3.0)**
