@@ -15,7 +15,7 @@
 
 ---
 
-## Key Git Actions and Commands
+## Key Git Actions and Commands 👨‍💻
 
 ### 1. **Initialize a Repository**
    - Create a new Git repository:
