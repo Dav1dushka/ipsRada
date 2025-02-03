@@ -126,3 +126,41 @@
      ```
 
 ---
+>[!IMPORTANT]
+>this part made by Danylo Sklyarovsky
+## Key Git Concepts 🗝
+- Repository (Repo): A directory where Git monitors file modifications
+- Commit: A saved snapshot of changes within the repository
+- Branch: An independent development path that enables work on new features or bug fixes without altering the primary codebase
+- Merge: The process of integrating changes from one branch into another
+- Clone: A local duplicate of a remote repository
+- Pull: Retrieving and merging updates from a remote repository into the local branch
+- Push: Sending local changes to a remote repository
+- Staging Area: A space where changes are prepared before committing
+- HEAD: A pointer to the latest commit or active branch
+- Tag: A label for a specific commit, often used for version releases
+- Stash: A way to temporarily store changes without committing them
+- Remote: A connection to a repository hosted on platforms like GitHub or GitLab
+- Conflict: An issue arising when Git is unable to automatically merge changes, requiring manual resolution
+- Pull Request (PR) / Merge Request (MR): A request to incorporate changes from one branch into another, typically used for code review
+
+## Commit in Git
+How Commits Help Track Changes:
+- Project State: Each commit records a version of the files along with a message describing the modifications, making it easier to understand changes
+- Version History: The commit log maintains a chronological record of changes, including the author, timestamp, and details of modifications
+- Rollback Capability: If an issue arises, commits enable you to revert to a previous project state by selecting a specific commit
+- Сollaboration: Commits allow team members to see and track modifications made by others
+- Change Identification: Every commit has a unique identifier (hash), making it easy to reference specific modifications
+
+Stage the files (add them to the staging area):
+
+```
+git add <file_name>   # Add a specific file  
+git add .             # Add all modified files  
+```
+
+Create the commit:
+```
+git commit -m "Brief description of the changes"  
+
+```
