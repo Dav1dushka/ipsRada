@@ -127,7 +127,7 @@
 
 ---
 >[!IMPORTANT]
->this part made by Danylo Sklyarovsky
+>this part made by Danylo Skliarovskyi
 ## Key Git Concepts 🗝
 - Repository (Repo): A directory where Git monitors file modifications
 - Commit: A saved snapshot of changes within the repository
