@@ -166,9 +166,9 @@ git commit -m "Brief description of the changes"
 ```
 >[!IMPORTANT]
 >this part made by Danylo Preobrazhensky
->
->Conclusion
->Git is an essential tool for modern software development, providing a powerful and flexible way to track changes, collaborate efficiently, and manage different versions of a project. By leveraging commits, branching, merging, and other Git functionalities, teams can work on multiple features simultaneously, track modifications over time, and ensure a structured development workflow.
+
+Conclusion
+Git is an essential tool for modern software development, providing a powerful and flexible way to track changes, collaborate efficiently, and manage different versions of a project. By leveraging commits, branching, merging, and other Git functionalities, teams can work on multiple features simultaneously, track modifications over time, and ensure a structured development workflow.
 
 Interesting Facts About Git 🤓
 Created by Linus Torvalds – Git was developed in 2005 by Linus Torvalds, the creator of Linux, to manage the Linux kernel's source code.
