@@ -15,7 +15,7 @@
 - [ ] [Лабораторна робота 4](https://github.com/Dav1dushka/ipsRada/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%204%20.md)
 - [ ] [Лабораторна робота 5](https://github.com/Dav1dushka/ipsRada/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%205%20.md)
 - [ ] [Лабораторна робота 6](https://github.com/Dav1dushka/ipsRada/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%206%20.md)
-- [ ] [Лабораторна робота 7]()
+- [ ] [Лабораторна робота 7](https://github.com/Dav1dushka/ipsRada/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%207%20.md)
 - [ ] [Лабораторна робота 8]()
 - [ ] [Лабораторна робота 9]()
 - [ ] [Лабораторна робота 10]()
