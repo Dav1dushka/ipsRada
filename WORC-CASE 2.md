@@ -60,21 +60,6 @@
 
 ### 4.2 Встановіть графічну оболонку GNOME поверх встановленої в попередньому пункті ОС;
 
-Add the unofficial shemgp repository and update the package list
-
-sudo add-apt-repository ppa:shemgp/gnome-40
-sudo apt update
-Install GNOME 40 + install the Cantarell font
-
-sudo apt install mutter gnome-shell gnome-session fonts-cantarell
-The installation will take a couple of minutes and once it's done, check the version of the installed shell
-
-gnome-shell --version
-To complete the installation and boot into GNOME 40, reboot.
-
-reboot
-In case you experience window and interface stalling when logging in, you need to log out of the current user and select the Xorg session.
-
 ![image_2025-02-21_19-39-00](https://github.com/user-attachments/assets/7e24f4f3-6bc4-4dd1-87e4-c50f1671141c)
 
 
