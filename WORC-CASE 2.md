@@ -62,6 +62,41 @@
 
 ![image_2025-02-21_19-39-00](https://github.com/user-attachments/assets/7e24f4f3-6bc4-4dd1-87e4-c50f1671141c)
 
+<table>
+  <tr>
+    <th style="color:#8A2BE2; font-size:20px;">⚠ Important</th>
+  </tr>
+  <tr>
+    <td>This part was made by <strong>Skliarovskyi Danylo</strong>.</td>
+  </tr>
+</table>
+
+### 4.3 Встановіть додатково ще другу графічну оболонку
+
+![image](https://github.com/user-attachments/assets/bcac2bfc-f7a0-4291-afdc-12b23174ba83)
+
+## GNOME VS KDE Plasma:
+
+| Feature               | GNOME                                  | KDE Plasma                           |
+|-----------------------|--------------------------------------|--------------------------------------|
+| **User Interface**    | Minimalistic, focused on simplicity | Highly customizable, feature-rich   |
+| **Customization**     | Limited, requires extensions        | Extensive, built-in customization   |
+| **Performance**       | Optimized for modern hardware       | More resource-intensive but flexible |
+| **Default Apps**      | GNOME-based applications (Nautilus, Gedit) | KDE apps (Dolphin, Kate, Konsole) |
+| **Extensions**        | Supports GNOME Shell extensions     | Uses widgets and themes natively    |
+| **Settings Manager**  | Simple and streamlined              | Advanced with many options          |
+| **Window Management** | Basic tiling and workspace support  | Advanced window management features |
+| **Wayland Support**   | More mature and stable              | Improving, but still behind GNOME   |
+| **File Manager**      | Nautilus (simple, streamlined)      | Dolphin (feature-rich, dual-pane)   |
+| **Resource Usage**    | Generally lower RAM consumption     | Higher RAM usage due to features    |
+
+
+
+
+
+
+
+
 
 
 
