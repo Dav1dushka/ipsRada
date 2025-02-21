@@ -40,3 +40,44 @@
     `"On Linux, you may need to add a user to the vboxusers group"`
     `"On Windows, you may need to install the VirtualBox Extension Pack drivers"`
 ---
+
+<table>
+  <tr>
+    <th style="color:#8A2BE2; font-size:20px;">⚠ Important</th>
+  </tr>
+  <tr>
+    <td>This part was made by <strong>Preobrazhensky Danylo</strong>.</td>
+  </tr>
+</table>
+
+### 3. Встановіть в вашому гіпервізорі операційну систему GNU/Linux (будь-який зручний Вам дистрибутив) у базовій конфігурації з графічною оболонкою.
+
+![image](https://github.com/user-attachments/assets/5858fd38-dec2-4b84-955b-d272d0524358)
+
+### 4.1 Встановіть у мінімальній конфігурації з термінальним вводом-виводом без графічного інтерфейсу операційну систему GNU/Linux;
+
+![image](https://github.com/user-attachments/assets/6c319fbb-1fcc-4d1b-a9b2-7e36d350670c)
+
+### 4.2 Встановіть графічну оболонку GNOME поверх встановленої в попередньому пункті ОС;
+
+Add the unofficial shemgp repository and update the package list
+
+sudo add-apt-repository ppa:shemgp/gnome-40
+sudo apt update
+Install GNOME 40 + install the Cantarell font
+
+sudo apt install mutter gnome-shell gnome-session fonts-cantarell
+The installation will take a couple of minutes and once it's done, check the version of the installed shell
+
+gnome-shell --version
+To complete the installation and boot into GNOME 40, reboot.
+
+reboot
+In case you experience window and interface stalling when logging in, you need to log out of the current user and select the Xorg session.
+
+![image_2025-02-21_19-39-00](https://github.com/user-attachments/assets/7e24f4f3-6bc4-4dd1-87e4-c50f1671141c)
+
+
+
+
+
