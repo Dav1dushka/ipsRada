@@ -2,7 +2,7 @@
 - [x] [WORK-CASE 1](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%201.md)
 - [x] [WORK-CASE 2](https://github.com/Dav1dushka/ipsRada/blob/main/WORC-CASE%202.md)
 - [ ] [WORK-CASE 3]()
-- [ ] [WORK-CASE 4]()
+- [ ] [WORK-CASE 4](https://github.com/Dav1dushka/ipsRada/blob/main/WORC-CASE%202.md)
 - [ ] [WORK-CASE 5]()
 - [ ] [WORK-CASE 6]()
 - [ ] [WORK-CASE 7]()
