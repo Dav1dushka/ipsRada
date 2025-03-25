@@ -149,7 +149,27 @@ Ubuntu uses the APT (Advanced Package Tool) package manager, which simplifies th
   sudo apt --fix-broken install
   ```
 
+### 3. Встановіть у терміналі через менеджер пакетів на свою систему:
 
+`sudo apt update`
+
+*Новий відео- чи аудіоплейер.*
+
+![image](https://github.com/user-attachments/assets/a3b212a8-9421-4450-84a0-3de188ae4f4b)
+
+`sudo apt install mpv`
+
+*Середовище для мови програмування, що ви вивчаєте.*
+
+![image](https://github.com/user-attachments/assets/1ca36be9-36b1-4b53-bd47-19d690aceb3b)
+
+`sudo apt install nodejs npm`
+
+![image](https://github.com/user-attachments/assets/f2622bce-0682-47fa-a188-da7f6398f93f)
+
+`mpv -version`
+`node -v`
+`npm -v`
 
 ### 4. Яким чином можна встановити нові програми через магазини додатків та менеджери пакетів у графічному середовищі. Наведіть свої приклади.
 
