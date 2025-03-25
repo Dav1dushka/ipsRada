@@ -62,6 +62,15 @@ A package manager is a utility that allows you to install, update, uninstall, an
 
 ### 2. Визначте який менеджер пакетів використовує ваш дистрибутив Linux. Опишіть основні команди для роботи з ним:
 
+<table>
+  <tr>
+    <th style="color:#8A2BE2; font-size:20px;">⚠ Important</th>
+  </tr>
+  <tr>
+    <td>This part was made by <strong>Preobrazhenskyi Danylo</strong>.</td>
+  </tr>
+</table>
+
 Ubuntu uses the APT (Advanced Package Tool) package manager, which simplifies the process of installing, updating, searching for, and uninstalling packages from official repositories.
 
 ### Пошук, скачування та установка необхідних пакетів, яких у Вашій системі немає (зі сховища по замовчуванню, з нового репозиторію тощо).
