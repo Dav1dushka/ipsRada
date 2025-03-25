@@ -180,5 +180,45 @@ Ubuntu uses the APT (Advanced Package Tool) package manager, which simplifies th
 `node -v`
 `npm -v`
 
+### 4. Яким чином можна встановити нові програми через магазини додатків та менеджери пакетів у графічному середовищі. Наведіть свої приклади.
 
+**1. Installing apps through the app stores****.
+
+#### **For Ubuntu (Ubuntu Software Center):**
+1. Open **Ubuntu Software Center** from the application tray.
+2. Use the search to find the application you want (for example, **VLC** or **GIMP**).
+3. Click the program, then click the **Install** button.
+4. If required, enter your password to confirm.
+
+#### **For Fedora (Software):**
+1. Open the **Software** program from the application drawer.
+2. Search for the application you want to install.
+3. Click the application, and then click **Install**.
+4. Confirm the installation by entering a password, if necessary.
+
+#### **For Manjaro (Pamac):**
+1. Open **Pamac** (graphical package manager).
+2. Find the program you want to install.
+3. Click on the program and click **Install**.
+4. Enter your password to confirm.
+
+**2. Installing programs through package managers in a graphical environment**
+
+#### **APT (Ubuntu/Debian) through a graphical user interface:**
+1. Open the **Synaptic Package Manager** (you need to have the `synaptic` package installed).
+2. In the search box, enter the name of the program.
+3. Select the program from the search results and click **Mark for Installation**.
+4. Click **Apply** to start the installation process.
+
+#### **DNF (Fedora) through the GUI:**
+1. Open **GNOME Software** or **KDE Discover** (depending on your environment).
+2. Search for the program you want to install.
+3. Click on the application and then click **Install**.
+4. Confirm the installation with the administrator password.
+
+#### **Pacman (Arch Linux) via graphical user interface:**
+1. Open **Pamac**.
+2. Search for the program you want to install.
+3. Click on it and click **Install**.
+4. Enter the password to confirm.
 
