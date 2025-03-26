@@ -1,8 +1,8 @@
 #### **СРС_WORK-CASE**
 - [x] [WORK-CASE 1](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%201.md)
 - [x] [WORK-CASE 2](https://github.com/Dav1dushka/ipsRada/blob/main/WORC-CASE%202.md)
-- [ ] [WORK-CASE 3](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%203.md)
-- [ ] [WORK-CASE 4](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%204.md)
+- [x] [WORK-CASE 3](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%203.md)
+- [x] [WORK-CASE 4](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%204.md)
 - [ ] [WORK-CASE 5]()
 - [ ] [WORK-CASE 6]()
 - [ ] [WORK-CASE 7]()
