@@ -4,7 +4,7 @@
 - [x] [WORK-CASE 3](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%203.md)
 - [x] [WORK-CASE 4](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%204.md)
 - [x] [WORK-CASE 5](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%205.md)
-- [ ] [WORK-CASE 6](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%206.md)
+- [x] [WORK-CASE 6](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%206.md)
 - [ ] [WORK-CASE 7]()
 - [ ] [WORK-CASE 8]()
 
@@ -17,5 +17,5 @@
 - [x] [Лабораторна робота 6](https://github.com/Dav1dushka/ipsRada/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%206%20.md)
 - [x] [Лабораторна робота 7](https://github.com/Dav1dushka/ipsRada/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%207%20.md)
 - [x] [Лабораторна робота 8](https://github.com/Dav1dushka/ipsRada/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%208%20.md)
-- [ ] [Лабораторна робота 9](https://github.com/Dav1dushka/ipsRada/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%209%20.md)
+- [x] [Лабораторна робота 9](https://github.com/Dav1dushka/ipsRada/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%209%20.md)
 - [ ] [Лабораторна робота 10](https://github.com/Dav1dushka/ipsRada/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%2010%20.md)
