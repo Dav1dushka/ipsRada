@@ -1,4 +1,11 @@
-
+<table>
+  <tr>
+    <th style="color:#8A2BE2; font-size:20px;">⚠ Important</th>
+  </tr>
+  <tr>
+    <td>This part was made by <strong>Velichko David, Skliarovskyi Danylo, Preobrazhenskyi Danylo</strong>.</td>
+  </tr>
+</table>
 
 ## 1. В робочому просторі операційної системи необхідно встановити декілька командних інтерпретаторів (окрім bash ще 2 на ваш вибір):
 - Якими командами це можна зробити;
