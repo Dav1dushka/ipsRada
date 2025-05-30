@@ -10,17 +10,17 @@
 ## 1. В ході роботи досить часто виникає завдання планування задач:
 ### Охарактеризуйте основні функції які може виконувати планувальник завдань в будь-якій ОС. Порівняйте можливості планування завдань в різних ОС на прикладі Windows та Linux.
 
-**Планувальник задач (task scheduler)** — це системний сервіс, що дозволяє автоматично запускати скрипти, програми або команди у визначений час чи за певною подією. Основні функції:
+**Task scheduler** is a system service that allows you to automatically run scripts, programs, or commands at a specified time or when a specific event occurs. Main functions:
 
-- автоматизація рутинних завдань (архівування, очистка логів, резервне копіювання);
+- automation of routine tasks (archiving, log cleaning, backup);
 
-- запуск програм за розкладом;
+- running programs on a schedule;
 
-- періодичне оновлення системи або програм;
+- periodic system or program updates;
 
-- планування системного обслуговування (перезавантаження, вимкнення тощо);
+- scheduling system maintenance (reboots, shutdowns, etc.);
 
-- реагування на події (лише в деяких ОС).
+- responding to events (only in some operating systems).
 
 | Feature / Capability             | **Windows Task Scheduler**                                        | **Linux Cron**                                                  |
 |----------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------|
@@ -36,9 +36,9 @@
 
 ### Опишіть основні принципи роботи з планувальником Cron в ОС Linux. Як його налаштовувати? Чи є йому альтернативи (дайте їх характеристику).
 
-- **Демон Cron** запускається під час старту системи і періодично (кожну хвилину) перевіряє таблиці розкладу (`crontab`), як системні (`/etc/crontab`, `/etc/cron.d/…`) так і користувацькі (`crontab -e`).
+- **The Cron daemon** starts when the system boots and periodically (every minute) checks the schedule tables (`crontab`), both system (`/etc/crontab`, `/etc/cron.d/…`) and user (`crontab -e`).
 
-- **Формат запису** має п’ять полів часу та команду:
+- **The record format** has five time fields and a command:
 
 ```
 ┌───────── minute (0–59)
@@ -50,23 +50,23 @@
 * * * * * /path/to/command arg1 arg2
 ```
 
-- **Спеціальні рядки:**
+- **Special lines:**
 
-- `@reboot` — запуск при старті системи
+- `@reboot` — run at system startup
 
-- `@daily`, `@hourly`, `@weekly`, `@monthly`, `@yearly` — умовні ярлики для стандартних інтервалів
+- `@daily`, `@hourly`, `@weekly`, `@monthly`, `@yearly` — conditional labels for standard intervals
 
-- **Налаштування:**
+- **Settings:**
 
-1. `crontab -e` — відкрити редактор для поточного користувача.
+1. `crontab -e` — open the editor for the current user.
 
-2. Додати чи змінити записи.
+2. Add or change entries.
 
-3. `crontab -l` — перегляд наявного розкладу.
+3. `crontab -l` — view the current schedule.
 
-4. `systemctl status cron` — перевірити стан демона (Ubuntu/Debian) або `crond` (CentOS/RHEL).
+4. `systemctl status cron` — check the status of the daemon (Ubuntu/Debian) or `crond` (CentOS/RHEL).
 
-- **Логи** зазвичай потрапляють у `/var/log/cron` або `/var/log/syslog` (залежить від дистрибутива); можна також перенаправити вивід завдань у власні файли:
+- **Logs** are usually stored in `/var/log/cron` or `/var/log/syslog` (depending on the distribution); you can also redirect task output to your own files:
 
 `0 2 * * * /usr/local/bin/backup.sh >> /var/log/backup.log 2>&1`
 
