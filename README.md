@@ -5,7 +5,7 @@
 - [x] [WORK-CASE 4](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%204.md)
 - [x] [WORK-CASE 5](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%205.md)
 - [x] [WORK-CASE 6](https://github.com/Dav1dushka/ipsRada/blob/main/WORK-CASE%206.md)
-- [ ] [WORK-CASE 7]()
+- [ ] [WORK-CASE 7](https://github.com/Dav1dushka/ipsRada/blob/main/WORC-CASE%207.md)
 - [ ] [WORK-CASE 8]()
 
 #### **Лабораторні роботи**
