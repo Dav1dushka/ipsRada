@@ -1,3 +1,12 @@
+<table>
+  <tr>
+    <th style="color:#8A2BE2; font-size:20px;">⚠ Important</th>
+  </tr>
+  <tr>
+    <td>This part was made by <strong>Velichko David, Skliarovskyi Danylo, Preobrazhenskyi Danylo</strong>.</td>
+  </tr>
+</table>
+
 ## 1. В ході роботи досить часто виникає завдання планування задач:
 ### Охарактеризуйте основні функції які може виконувати планувальник завдань в будь-якій ОС. Порівняйте можливості планування завдань в різних ОС на прикладі Windows та Linux.
 
